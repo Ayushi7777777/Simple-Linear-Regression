@@ -13,4 +13,4 @@ This is my first machine learning project using the California Housing dataset.
 - `LinearRegressionProject.ipynb`: Jupyter Notebook containing all the code and explanations
 
 ##  What's Next: 
-I'll try Ridge Regression and improve my model performance!
+I'll try Ridge and lasso  Regression and improve my model performance!
